@@ -1,11 +1,16 @@
 <h1 align="center">Salut, I'm Arina</h1>
 <h3 align="center">Frontend dev</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/miroari?tab=repositories](https://github.com/miroari?tab=repositories)
+<!--- - 👨‍💻 All of my projects are available at [https://github.com/miroari?tab=repositories](https://github.com/miroari?tab=repositories) -->
 
 - 💬 Ask me about **Angular ecosystem**
 
 - 📫 How to reach me **arina.mir@gmail.com**
+
+<h3 align="center">My projects:</h3>
+
+- 👗 Wardrobe visualisation app [Garb Goals](https://garb-goals.vercel.app)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
