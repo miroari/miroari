@@ -9,7 +9,12 @@
 
 <h3 align="center">My projects:</h3>
 
-- 👗 Wardrobe visualisation app [Garb Goals](https://garb-goals.vercel.app)
+## Wardrobe visualisation app  
+- 👗 [Garb Goals](https://garb-goals.vercel.app)
+```
+The primary goal of the app was to simplify and streamline wardrobe management,
+keeping track, catalog and organise all clothing items and the outfit selection process
+```
 
 
 <h3 align="left">Connect with me:</h3>
