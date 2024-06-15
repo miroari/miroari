@@ -11,13 +11,18 @@
 
 ## Wardrobe visualisation app  
 - 👗 [Garb Goals](https://garb-goals.vercel.app)
-```
-The primary goal of the app was to simplify and streamline wardrobe management,
-keeping track, catalog and organise all clothing items and the outfit selection process
-```
+
+The primary goal of the app is to simplify and streamline wardrobe management,
+keeping track, catalog and organise all clothing items and the outfit selection process.
+
+- 💻 Used json-server as backend for interaction over http protocol in REST approach
+- 🎨 Implemented user interface elements through the use of PrimeNG library
+- 🚀 Added reactivity to the app with the help of rxjs, using higher order operators and UX optimiser
+- 📦 Configured development and production environments, and deployed the app on Vercel
 
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/miroari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miroari" height="30" width="40" /></a>
 </p>
