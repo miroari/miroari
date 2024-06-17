@@ -12,14 +12,19 @@
 ## Wardrobe visualisation app  
 - 👗 [Garb Goals](https://garb-goals.vercel.app)
 
-The primary goal of the app is to simplify and streamline wardrobe management,
-keeping track, catalog and organise all clothing items and the outfit selection process.
+The primary goal of the app is to simplify and streamline wardrobe management and the outfit selection process,
+keeping track, catalog and organise all clothing items.
 
 - 💻 Used json-server as backend for interaction over http protocol in REST approach
 - 🎨 Implemented user interface elements through the use of PrimeNG library
 - 🚀 Added reactivity to the app with the help of rxjs, using higher order operators and UX optimiser
 - 📦 Configured development and production environments, and deployed the app on Vercel
 
+## Weather realtime app 
+- 🌦️ [Meteo Widget](https://meteo-weather.vercel.app/)
+  
+Getting the current weather data from Real-time Weather API and displaying the info like temperature
+and weather conditions depending on the particular city typed via search box.
 
 
 ## Connect with me:
