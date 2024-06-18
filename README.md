@@ -1,5 +1,5 @@
 <h1 align="center">Salut, I'm Arina</h1>
-<h3 align="center">Frontend dev</h3>
+<h3 align="center">Frontend developer</h3>
 
 <!--- - 👨‍💻 All of my projects are available at [https://github.com/miroari?tab=repositories](https://github.com/miroari?tab=repositories) -->
 
