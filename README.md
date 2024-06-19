@@ -26,6 +26,8 @@ keeping track, catalog and organise all clothing items.
 Getting the current weather data from Real-time Weather API and displaying the info like temperature
 and weather conditions depending on the particular city typed via search box.
 
+## Sudoku game app 
+- 🧩 [Sudoku](https://sudoku-solver-board.vercel.app/)
 
 ## Connect with me:
 <p align="left">
